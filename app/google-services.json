@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260281082539",
+    "project_id": "apk-satpam",
+    "storage_bucket": "apk-satpam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260281082539:android:0a9137caf3d1ad792a8dee",
+        "android_client_info": {
+          "package_name": "com.example.laporsatpam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260281082539-fm1tqtubvvkh9oi53enk0c94ro9u34qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNpSXFktlRNvTarko90hCyv-d5dxR9bzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260281082539-fm1tqtubvvkh9oi53enk0c94ro9u34qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
